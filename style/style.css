@@ -19,13 +19,6 @@ h1 {
     margin-bottom: 0;
 }
 
-@media (max-width: 460px) {
-    h1 {
-        font-size: 3.5rem;
-        line-height: 1.2;
-    }
-}
-
 h2 {
     font-size: 3.25rem;
 }
@@ -49,12 +42,6 @@ a:visited {
     background: #eee;
 }
 
-@media (max-width: 460px) {
-    #main {
-        margin: 0;
-    }
-}
-
 img {
     max-width: 100%;
     display: block;
@@ -70,12 +57,6 @@ img {
 
 #img-caption {
     margin: 15px 0 5px 0;
-}
-
-@media (max-width: 460px) {
-    #img-caption {
-        font-size: 1.4rem;
-    }
 }
 
 #headline {
