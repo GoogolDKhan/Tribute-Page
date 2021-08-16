@@ -1,6 +1,7 @@
 # Tribute Page - Uchiha Itachi
 
-- He is one of the most loved character in animeverse. He is also known as **The Dark Knight of the Leaf**.
+- He is one of the most loved character in animeverse.
+- Responsive Web Design
 
 ## Technologies Used
 
