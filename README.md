@@ -10,6 +10,6 @@
   
 ## Author
 
-- [@Sarfaraz](https://www.github.com/GoogolDKhan)
+- This project is inspired by [FCC: Tribute Page](https://codepen.io/freeCodeCamp/full/zNqgVx)
 
 - Dated : 24-05-2021
