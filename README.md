@@ -1,4 +1,4 @@
-# Tribute Page - Uchiha Itachi
+# Tribute Page - Uchiha Itachi [![CodeFactor](https://www.codefactor.io/repository/github/googoldkhan/tribute-page/badge)](https://www.codefactor.io/repository/github/googoldkhan/tribute-page)
 
 - He is one of the most loved character in animeverse.
 - Responsive Web Design
