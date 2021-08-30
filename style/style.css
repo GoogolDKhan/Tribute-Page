@@ -56,7 +56,7 @@ img {
 }
 
 #img-caption {
-  margin: 15px 0 5px 0;
+  margin: 15px 0 5px;
 }
 
 #headline {
@@ -66,7 +66,7 @@ img {
 
 ul {
   max-width: 550px;
-  margin: 0 auto 50px auto;
+  margin: 0 auto 50px;
   text-align: left;
   line-height: 1.6;
 }
@@ -78,6 +78,6 @@ li {
 blockquote {
   font-style: italic;
   max-width: 545px;
-  margin: 0 auto 50px auto;
+  margin: 0 auto 50px;
   text-align: left;
 }
